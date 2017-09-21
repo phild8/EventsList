@@ -14,7 +14,11 @@ import java.io.IOException;
 import java.io.InputStream;
 
 public class EventDetailsActivity extends AppCompatActivity {
-
+    /**
+     * Loads ImageView, EventTitleTextView, and EventDetailsTextView
+     *
+     * @param savedInstanceState Loads any saved instance
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -49,6 +53,11 @@ public class EventDetailsActivity extends AppCompatActivity {
 
     }
 
+    /**
+     * Returns to user to eventsList
+     *
+     * @param v reads button click
+     */
     protected void goBackToList(View v)
     {
         // Terminates the current activity (terminates the details activity)
