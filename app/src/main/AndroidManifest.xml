@@ -9,14 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".EventListActivity">
+        <activity android:name="edu.orangecoastcollege.cs273.pdavis11.eventslist.EventListActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".EventDetailsActivity"></activity>
+        <activity android:name="edu.orangecoastcollege.cs273.pdavis11.eventslist.EventDetailsActivity"></activity>
     </application>
 
 </manifest>

@@ -1,4 +1,4 @@
-package com.example.pdavis11.eventslist;
+package edu.orangecoastcollege.cs273.pdavis11.eventslist;
 
 import org.junit.Test;
 

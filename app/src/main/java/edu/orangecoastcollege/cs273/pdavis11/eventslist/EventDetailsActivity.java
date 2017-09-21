@@ -1,4 +1,4 @@
-package com.example.pdavis11.eventslist;
+package edu.orangecoastcollege.cs273.pdavis11.eventslist;
 
 import android.content.Intent;
 import android.content.res.AssetManager;
@@ -9,6 +9,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.pdavis11.eventslist.R;
 
 import java.io.IOException;
 import java.io.InputStream;

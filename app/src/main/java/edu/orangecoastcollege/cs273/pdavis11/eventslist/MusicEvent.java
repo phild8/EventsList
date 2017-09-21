@@ -1,4 +1,4 @@
-package com.example.pdavis11.eventslist;
+package edu.orangecoastcollege.cs273.pdavis11.eventslist;
 
 /**
  * The MusicEvent class is a place holder for data corresponding to music events
