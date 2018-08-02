@@ -5,9 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.pdavis11.eventslist.edu.example.pdavis11.eventslist.EventDetailsActivity">
+    tools:context="edu.orangecoastcollege.cs273.pdavis11.eventslist.EventDetailsActivity">
 
     <ImageView
+        android:contentDescription="Band place holder picture"
         android:id="@+id/eventImageView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

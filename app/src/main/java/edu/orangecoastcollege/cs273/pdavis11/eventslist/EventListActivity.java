@@ -31,7 +31,7 @@ public class EventListActivity extends ListActivity {
      * sends an intent of titles and details to EventDetailsActivity.java
      * @param l the listView of titles
      * @param v the listView clicked
-     * @param position where the click occured in the list
+     * @param position where the click occurred in the list
      * @param id of the list
      */
     @Override

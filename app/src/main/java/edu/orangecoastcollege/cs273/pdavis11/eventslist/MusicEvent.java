@@ -18,7 +18,7 @@ public class MusicEvent {
             "Blink 182", "Ben Folds And A Piano", "Tony Bennett", "How The West Was Won",
             "Will Downing", "Simple Plan", "Gwen Stefani", "Sublime With Rome"};
 
-    /**
+    /**goBackToList
      * The details of upcoming music events.
      */
     public static String[] details = {
